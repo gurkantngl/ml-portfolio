@@ -26,6 +26,7 @@ Bu repository, makine öğrenmesi alanındaki çalışmalarımı, projelerimi ve
 ## 🛠️ Kullanılan Teknolojiler
 - Python
 - Scikit-learn
+- Auto Scikit-learn
 - TensorFlow/Keras
 - PyTorch
 - Pandas
